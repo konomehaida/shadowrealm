@@ -43,8 +43,7 @@ On Windows
 
  How to Play
 
-* Move around the world, collect crystals, and battle through dungeons.
-* Explore new areas, talk to NPCs, and uncover the story of the ShadowRealm.
+* choose until you win or lose.
 
 ---
 
